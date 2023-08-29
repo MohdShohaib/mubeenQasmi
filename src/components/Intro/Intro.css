@@ -78,7 +78,7 @@
     position: absolute;
     /* right: 190px; */
     left: 122px;
-    bottom: 177px;
+    bottom: 121px;
 }
 .i-right > :nth-child(4) {
   transform: scale(0.62);
@@ -119,5 +119,18 @@
   .floating-div:nth-of-type(1){
     /* display: none; */
     top: -7rem !important;;
+  }
+  .i-right > :nth-child(3) {
+    transform: scale(1.4);
+    left: 28%;
+    height: 380px;
+      /* margin-top: 95px; */
+      /* display: flex; */
+      /* margin-left: 19px; */
+      border-radius: 100px;
+      position: absolute;
+      /* right: 190px; */
+      left: 122px;
+      bottom: 187px;
   }
 }
